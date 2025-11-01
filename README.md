@@ -27,13 +27,6 @@ This lab demonstrates common attack vectors against MySQL databases, including:
 
 ---
 
-##  Lab Report
-The complete lab report is available in this repository:
-- [Lab 17.2.6 Report.pdf](./file:///K:/Education/NTI%20CS/Tasks/Lab%2017.2.6%20attacking%20a%20mysql%20database%20DONE/Lab%2017.2.6%20Report.pdf)
-
-
----
-
 ##  Security Recommendations
 - Implement parameterized queries to prevent SQL injection
 - Use strong authentication mechanisms
